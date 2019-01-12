@@ -1,5 +1,6 @@
 #
 # common makefile elements for all PX4 boards
+#  px.4_common.mk文件是关于所有PX4平台的通用编译文件
 #
 
 #
